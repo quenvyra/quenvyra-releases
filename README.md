@@ -132,11 +132,5 @@ const [productId, setProductId] = useState('')
 
 Purchase your license at [quenvyra.com](https://quenvyra.com).
 
-```
 
-<FollowUp>
-Would you like me to add badges (e.g., NPM version, build status), a Table of Contents, or tweak any specific code examples for your README?
-</FollowUp>
-
-```
 
