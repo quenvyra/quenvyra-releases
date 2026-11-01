@@ -11,9 +11,8 @@ Before embedding the widgets, obtain a Quenvyra license and start the Quenvyra A
 1. **Get a license:** Visit [quenvyra.app](https://quenvyra.app).
 2. **Pull the API image:**
 
-   ```bash
+```bash
    docker pull ghcr.io/quenvyra/quenvyra:latest
-
 ```
 
  **Note:** `latest` is published with stable releases. For the current prerelease test, use `ghcr.io/quenvyra/quenvyra:0.1.0-rc2`; the `latest` tag is not available until a stable image release is published.
