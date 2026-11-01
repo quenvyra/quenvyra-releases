@@ -16,7 +16,7 @@ Before embedding the widgets, obtain a Quenvyra license and start the Quenvyra A
 
 ```
 
-> **Note:** `latest` is published with stable releases. For the current prerelease test, use `ghcr.io/quenvyra/quenvyra:0.1.0-rc2`; the `latest` tag is not available until a stable image release is published.
+ **Note:** `latest` is published with stable releases. For the current prerelease test, use `ghcr.io/quenvyra/quenvyra:0.1.0-rc2`; the `latest` tag is not available until a stable image release is published.
 
 3. **Run the API:** Download `docker-compose.prod.yml` from the Quenvyra releases page. In the adjacent `.env` file, set `QUENVYRA_VERSION`, `QUENVYRA_LICENSE`, and `ALLOWED_SHOP_DOMAIN`, then run:
 ```bash
