@@ -1,4 +1,4 @@
-@quenvyra/shopify-chat-widget
+## @quenvyra/shopify-chat-widget
 
 Embeddable customer support widgets for Shopify and Hydrogen storefronts, backed by a Quenvyra API server. Each feature is its own React component, so you can place it on a different page.
 Quick Start & Licensing
